@@ -1,4 +1,3 @@
-# tensorflow
 # Installing Tensorflow:
 
 1) conda create -n venv pip python=3.6  # select python version
